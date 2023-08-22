@@ -1,9 +1,7 @@
 ### Name:
 Obasoro Olakunle
-
 *****
-
-A DevOps/DevSecOps Engineer. A lover of the Earth that transitioned into Technology.
+A DevOps/DevSecOps Engineer. A lover of the Earth and sustainability. Technology is my passion and driving force. 
 <!--
 **Obasoro/obasoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
