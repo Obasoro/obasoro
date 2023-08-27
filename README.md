@@ -3,6 +3,13 @@
 ***Obasoro Olakunle***
 *****
 A DevOps/DevSecOps Engineer. A lover of the Earth and sustainability. Technology is my passion and driving force. 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=onlydole&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlydole&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 <!--
 **Obasoro/obasoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image](https://github.com/Obasoro/obasoro/assets/29310552/6b04eede-d268-4fab-b8f5-2c2a081c0cf1)
 
 
 ### 🔗 Cloud Technology
