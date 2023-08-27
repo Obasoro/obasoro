@@ -4,6 +4,10 @@
 *****
 A DevOps/DevSecOps Engineer. A lover of the Earth and sustainability. Technology is my passion and driving force. 
 
+### 🔗 Professional Journey
+
+I started has learning python for Machine learning and data science in my field of Geophysics. My interest drove me to machine learning operations called (MlOps). DevOps and cloudnative space contribution are where I belong now. To contribute to cutting-edge technologies and build solutions that solve real issues faced by all.
+
 
 <!--
 **Obasoro/obasoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -76,7 +80,7 @@ Here are some ideas to get you started:
 
 
 ### Connect 
-[Linkedin](https://www.linkedin.com/in/olakunleobasoro/)
+You can connect with me on [Linkedin](https://www.linkedin.com/in/olakunleobasoro/), [Twitter](https://twitter.com/kunle_obasoro), or here on GitHub! Let's work together and make the cloud-native landscape even more vibrant and dynamic.
 
  
 
