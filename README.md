@@ -5,10 +5,10 @@
 A DevOps/DevSecOps Engineer. A lover of the Earth and sustainability. Technology is my passion and driving force. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=onlydole&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=obasoro&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlydole&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obasoro&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 <!--
 **Obasoro/obasoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
